@@ -1,4 +1,13 @@
-## Hi there 👋
+<table>
+<tr>
+<th align="center">
+<img src="https://github.com/limcel/limcel/assets/28526018/a881e8ce-7141-4343-bfee-b06028f351e8" href="https://github.com/limcel" alt="Polaroid" width="100%" height="80%"/>
+</th>
+<th align="center">
+<p>Welcome! </br> I'm Celine, Software Engineer from <img src="https://github.com/limcel/limcel/assets/28526018/595821ef-4751-433b-a3d6-0e4ced3de718" width="13"/> <b>Singapore</b>, currently living in <img src="https://github.com/limcel/limcel/assets/28526018/11ce194e-93dc-43d3-95cc-2351a67f521e" width="13"/> <b>San Francisco, United States</b>. </p>
+  
+</th>
+</table>
 
 <!--
 **limcel/limcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
