@@ -22,6 +22,12 @@ my_tools = {
     "storage": ["Postgres", "Snowflake", "Databricks"]
 }
 ```
+<h3>Certifications</h3>
+<a href="https://www.credly.com/badges/7d0e4731-918c-4bda-b690-bd14de646c14"><img src="https://github.com/limcel/limcel/assets/28526018/0ddb2517-8bb1-4f56-81c6-766d7ce8956b" alt="aws_certified_solutions_architect" width="8%"/></a>
+<a href="https://www.credly.com/badges/a43e1577-1335-4d7b-abd7-add69549e11a"><img src="https://github.com/limcel/limcel/assets/28526018/5b82a1c7-fe1f-4c99-82ea-2c79a7579ed7" alt="certified_kubernetes_application_dev" width="8%"/></a>
+
+
+<h3>Interests</h3>
 
 <img alt="GIF" src="https://github.com/limcel/limcel/assets/28526018/7b63df04-a353-412a-9bc2-be0c3da7cc2c" width="25" /> &nbsp; I’m currently learning **Kubernetes**. <br>
 <img src="https://github.com/limcel/limcel/assets/28526018/d6873050-8c7b-487d-bde0-d5d12052b986" width="10" />&nbsp;&nbsp; Ask me about **Building Keyboards, Travel, or anything**! <br>
